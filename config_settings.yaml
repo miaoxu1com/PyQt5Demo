@@ -1,0 +1,27 @@
+output_format:
+  current_item: 仅输出标题
+  items:
+  - 不合并步骤
+  - 合并步骤为一行
+  - 仅输出标题
+common_fields:
+  导入路径: 
+  设计者: sss
+  归属系统: 
+  类型: 功能测试
+  标签: ''
+  优先级: 中
+fields:
+  Name: ''
+  Objective: ''
+  Precondition: ''
+  Folder: ''
+  Status: Approved
+  Priority: High
+  Component: 
+  Owner: ''
+  Estimated Time: ''
+  Labels: 
+  Coverage(Issues): ''
+  Test Script(Step-by-Step)-Step: ''
+  Test Script(Step-by-Step)-Expected Result: ''
