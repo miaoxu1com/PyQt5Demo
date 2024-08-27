@@ -1,3 +1,4 @@
+# coding=gb2312
 class TestCase:
     # __slots__ = ('title', 'step', 'result', 'stepn')
 
