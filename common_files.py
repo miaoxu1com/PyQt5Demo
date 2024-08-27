@@ -1,3 +1,4 @@
+# coding=gb2312
 from pathlib import Path
 
 
