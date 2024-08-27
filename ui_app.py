@@ -1,3 +1,4 @@
+# coding=gb2312
 # 组件类
 from PyQt5.QtWidgets import QWidget, QFrame, QMessageBox, QVBoxLayout, QHBoxLayout, QFormLayout, QLabel, QLineEdit, QTextBrowser, QPushButton, QComboBox, QStatusBar
 # Ui类
