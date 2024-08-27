@@ -1,3 +1,4 @@
+# coding=gb2312
 import os
 from itertools import groupby, chain
 
