@@ -1,3 +1,4 @@
+# coding=gb2312
 import csv
 
 def write(file, rows, encoding='utf-8'):
