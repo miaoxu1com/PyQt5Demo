@@ -1,3 +1,4 @@
+# coding=gb2312
 from PyQt5.QtCore import QThread, pyqtSignal
 from utils.converters import testcase
 class Worker(QThread):
