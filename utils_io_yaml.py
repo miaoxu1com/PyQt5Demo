@@ -1,3 +1,4 @@
+# coding=gb2312
 from collections import OrderedDict
 import yaml
 
