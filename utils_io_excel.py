@@ -1,3 +1,4 @@
+# coding=gb2312
 import xlwt
 
 def write(file, data, sheet_name='Sheet1', encoding='gb2312'):
